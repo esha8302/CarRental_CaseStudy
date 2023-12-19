@@ -28,6 +28,7 @@ bin/
 .settings/
 .classpath
 .project
+target/
 
 # properties file
 *.properties
